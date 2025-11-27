@@ -128,7 +128,7 @@
       {
         "type": "image",
         "id": "kQvlBFkaO6",
-        "src": "../imgs/1.png",
+        "src": "../imgs/dist/1.png",
         "width": 470,
         "height": 240,
         "left": 20,
@@ -152,7 +152,7 @@
       {
         "type": "image",
         "id": "kQvlBFkaO6",
-        "src": "../imgs/2.png",
+        "src": "../imgs/dist/2.png",
         "width": 470,
         "height": 240,
         "left": 510,
@@ -176,7 +176,7 @@
       {
         "type": "image",
         "id": "kQvlBFkaO6",
-        "src": "../imgs/3.png",
+        "src": "../imgs/dist/3.png",
         "width": 470,
         "height": 240,
         "left": 20,
@@ -200,7 +200,7 @@
       {
         "type": "image",
         "id": "kQvlBFkaO6",
-        "src": "../imgs/4.png",
+        "src": "../imgs/dist/4.png",
         "width": 470,
         "height": 240,
         "left": 510,
@@ -233,7 +233,7 @@
       {
         "type": "image",
         "id": "kQvlBFkaO6",
-        "src": "../imgs/5.png",
+        "src": "../imgs/dist/5.png",
         "width": 470,
         "height": 240,
         "left": 20,
@@ -257,7 +257,7 @@
       {
         "type": "image",
         "id": "kQvlBFkaO6",
-        "src": "../imgs/6.png",
+        "src": "../imgs/dist/6.png",
         "width": 470,
         "height": 240,
         "left": 510,
@@ -281,7 +281,7 @@
       {
         "type": "image",
         "id": "kQvlBFkaO6",
-        "src": "../imgs/7.png",
+        "src": "../imgs/dist/7.png",
         "width": 470,
         "height": 240,
         "left": 20,
@@ -305,7 +305,7 @@
       {
         "type": "image",
         "id": "kQvlBFkaO6",
-        "src": "../imgs/8.png",
+        "src": "../imgs/dist/8.png",
         "width": 470,
         "height": 240,
         "left": 510,
@@ -338,7 +338,7 @@
       {
         "type": "image",
         "id": "kQvlBFkaO6",
-        "src": "../imgs/9.png",
+        "src": "../imgs/dist/9.png",
         "width": 470,
         "height": 240,
         "left": 20,
@@ -349,7 +349,7 @@
       {
         "type": "image",
         "id": "kQvlBFkaO6",
-        "src": "../imgs/10.png",
+        "src": "../imgs/dist/10.png",
         "width": 470,
         "height": 240,
         "left": 510,
@@ -492,7 +492,7 @@
       {
         "type": "image",
         "id": "kQvlBFkaO6",
-        "src": "../imgs/model_1.png",
+        "src": "../imgs/dist/model_1.png",
         "width": 470,
         "height": 240,
         "left": 20,
@@ -516,7 +516,7 @@
       {
         "type": "image",
         "id": "kQvlBFkaO6",
-        "src": "../imgs/6.png",
+        "src": "../imgs/dist/6.png",
         "width": 470,
         "height": 240,
         "left": 510,
@@ -540,7 +540,7 @@
       {
         "type": "image",
         "id": "kQvlBFkaO6",
-        "src": "../imgs/7.png",
+        "src": "../imgs/dist/7.png",
         "width": 470,
         "height": 240,
         "left": 20,
@@ -564,7 +564,7 @@
       {
         "type": "image",
         "id": "kQvlBFkaO6",
-        "src": "../imgs/8.png",
+        "src": "../imgs/dist/8.png",
         "width": 470,
         "height": 240,
         "left": 510,
@@ -602,7 +602,7 @@
         "rotate": 0,
         "left": 50,
         "top": 40,
-        "src": "../imgs/chat.mp4",
+        "src": "../imgs/dist/chat.mp4",
         "autoplay": false,
         "ext": "mp4"
       }
