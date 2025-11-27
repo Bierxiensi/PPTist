@@ -13,6 +13,9 @@ node_modules
 dist-ssr
 coverage
 *.local
+public/imgs/*.mp4
+dist/imgs/*.mp4
+imgs/*.mp4
 
 /cypress/videos/
 /cypress/screenshots/
